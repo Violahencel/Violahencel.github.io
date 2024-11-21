@@ -8,7 +8,7 @@ I love exploring new technologies, tackling challenging problems, and contributi
 ---
 
 ## 🛠️ Skills & Tools
-- **Programming Languages**:  Python, C++,HTML,CSS,PostgreSQL,
+- **Programming Languages**:  Python, C#,HTML,CSS,PostgreSQL,
 - **Frameworks**: React, Flask,Langchain,.Net
 - **Tools & Platforms**: Git,  AWS,Visual Studio Code (VS Code),Visual Studio,GitHub,Power BI
 - **Other Skills**: Machine Learning, Data Visualization,Web Scarping,Web Development,Artificial Intelligence,Prompt Engineering
